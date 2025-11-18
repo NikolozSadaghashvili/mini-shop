@@ -1,0 +1,5 @@
+# Node.js modules React.js modules
+node_modules/
+
+# Environment variables
+.env

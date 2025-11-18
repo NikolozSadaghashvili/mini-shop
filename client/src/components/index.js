@@ -1,0 +1,3 @@
+export { default as Header } from "./Header.jsx";
+export { default as ProductCard } from "./ProductCard.jsx";
+export { default as CartItem } from "./CartItem.jsx";
